@@ -1,6 +1,6 @@
   var geocoder;
   var map;
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7vV2S_Xd2lr2tT7s-udyCRjGbseGlxoY&sensor=true"
+  src="https://maps.googleapis.com/maps/api/js?key=KEY_HERE_BUT_NOT_MY_KEY_:>&sensor=true"
   function initialize() {
     geocoder = new google.maps.Geocoder();
     var latlng = new google.maps.LatLng(32.7758, 96.7967);
